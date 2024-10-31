@@ -1,6 +1,6 @@
 # DevOps Tools
 
-Este repositório contém um script destinado a facilitar a instalação de ferramentas essenciais para Engenheiros DevOps em sistemas Linux, abrangendo tanto distribuições baseadas em Debian quanto em RedHat.
+Este repositório facilita a instalação de ferramentas essenciais para profissionais de DevOps, SRE, Sysadmins e outras funções de infraestrutura em sistemas Linux. Com suporte para distribuições baseadas em Debian e RedHat, ele garante compatibilidade com diversos ambientes.
 
 ## Ferramentas Instaladas
 Este script instalará as seguintes ferramentas:
